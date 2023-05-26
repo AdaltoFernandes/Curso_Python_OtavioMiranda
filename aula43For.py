@@ -38,7 +38,7 @@ novo_texto = ''
 # Para cada letra no texto -> vai fazer um interação (printar letra)
 for letra in texto:
     novo_texto += f'*{letra}' # Colocando * entre as letras
-    print(letra)
+    # print(letra)
 print(novo_texto)
 # Da onde veio essa variavel letra? Foi criada por min (Otavio)
 # Como ela retorna as letras de texto? 
