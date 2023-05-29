@@ -41,10 +41,6 @@ while True:
 
 
 
-
-
-
-
 #### MINHA TENTATIVA ####
 # entrada = input('Digite uma opção [i]nserir [a]pagar [l]istar: ').lower()
 
